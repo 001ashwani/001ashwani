@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ashwani Raj 👋
 
-<!--
-**001ashwani/001ashwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+- B.Tech CSE Student at Parul University
+- Interested in Full Stack Development & Real-Time Applications
+- Building projects using React, Node.js, MongoDB, and Socket.IO
+- Learning scalable backend systems and cloud technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Java
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Socket.IO
+- AWS Cloud
+
+## Current Focus
+- Real-Time Communication Systems
+- Backend Development
+- REST APIs
+- DSA & Problem Solving
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/ashwani-raj-315b152bb/
+- Email: rajashwani003@gmail.com
