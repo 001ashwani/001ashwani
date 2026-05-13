@@ -1,8 +1,8 @@
 # Hey there, I'm **Ashwani Raj** 👋
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=700&height=100&duration=3000&pause=1000&color=00D9FF&background=0D1117&multiline=true&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Real-Time+App+Builder+%E2%9A%A1;Open+to+Internship+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=700&height=60&duration=3000&pause=1000&color=00D9FF&background=0D1117&multiline=false&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Real-Time+App+Builder+%E2%9A%A1;Open+to+Internship+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
-![coding gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 
 ---
 
@@ -27,36 +27,16 @@ const ashwani = {
 ## 🛠️ Tech Arsenal
 
 ### **Frontend Magic ✨**
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind)](https://skillicons.dev)
 
 ### **Backend Power 🔥**
-
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
 ### **Languages 💻**
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Languages](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 
 ### **Tools & Platforms 🧰**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001ashwani)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,aws,figma,canva)](https://skillicons.dev)
 
 ---
 
